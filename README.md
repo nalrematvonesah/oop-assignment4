@@ -1,9 +1,9 @@
 # oop-assignment4
 REST API with CRUD operations
 
-Endpoints:
-  GET /patients → Screen all patients
-  GET /patients/{id} → Screen patient by ID
-  POST /patients → Add new patient
-  PUT /patients/{id} → Update information about the patient
-  DELETE /patients/{id} → Delete the patient
+Endpoints: \n
+  GET /patients → Screen all patients\n
+  GET /patients/{id} → Screen patient by ID\n
+  POST /patients → Add new patient\n
+  PUT /patients/{id} → Update information about the patient\n
+  DELETE /patients/{id} → Delete the patient\n
